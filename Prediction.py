@@ -10,7 +10,7 @@ from streamlit_option_menu import option_menu
 st.set_page_config(layout="wide",initial_sidebar_state='collapsed',page_icon='📉')
 st.title('**Time Series Forcasting**')
 selected = option_menu(menu_title=None,options= ["Prediction", 'Previous Data'],orientation='horizontal',
-                       icons=['house', 'gear'], default_index=0,
+                       icons=['None', 'None'], default_index=0,
                        styles={
         "container": {"padding": "0!important", "background-color": "grey"},
         "icon": {"color": "orange", "font-size": "25px"}, 
