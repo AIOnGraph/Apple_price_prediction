@@ -15,7 +15,7 @@ selected = option_menu(menu_title=None,options= ["Prediction", 'Previous Data'],
         "container": {"padding": "0!important", "background-color": "grey"},
         "icon": {"color": "orange", "font-size": "25px"}, 
         "nav-link": {"font-size": "25px", "text-align": "left", "margin":"0px", "--hover-color": "#eee"},
-        "nav-link-selected": {"background-color": "green"},
+        "nav-link-selected": {"background-color": "#35383d"},
     }
 )
 model = load_model('AAPLE_LSTM.h5')
