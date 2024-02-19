@@ -47,4 +47,4 @@ This project is for educational and informational purposes only. The predictions
 
 ## Support and Feedback
 
-If you encounter any issues, have feedback, or suggestions, please open an issue on [GitHub]https://github.com/AIOnGraph/Apple_price_prediction/issues).
+If you encounter any issues, have feedback, or suggestions, please open an issue on [GitHub](https://github.com/AIOnGraph/Apple_price_prediction/issues).
