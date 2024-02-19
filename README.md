@@ -9,7 +9,7 @@ This repository contains a Python script for predicting Apple Inc. (AAPL) stock 
 1. **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/your-username/apple-stock-prediction.git](https://github.com/AIOnGraph/Apple_price_prediction.git)
+    git clone [https://github.com/your-username/apple-stock-prediction.git]
     ```
 
 2. **Install the required dependencies:**
