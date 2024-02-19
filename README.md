@@ -1,4 +1,4 @@
-# Apple Stock Price Prediction with LSTM README
+# Apple Stock Price Prediction with LSTM 
 
 ## Overview
 
